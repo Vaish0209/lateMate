@@ -1,0 +1,469 @@
+2023-07-09 16:55:19 [INFO] Question: How many people died on titanic?
+2023-07-09 16:55:19 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 16:55:19 [INFO] Prompt ID: 8c1ae3f2-2870-4b9a-9b3c-d0acc996bc8f
+2023-07-09 16:55:19 [INFO] error_code=None error_message='Unrecognized request argument supplied: api_token' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-09 16:55:19 [INFO] 127.0.0.1 - - [09/Jul/2023 16:55:19] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:00:05 [INFO] Question: How many people died on titanic?
+2023-07-09 17:00:05 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 17:00:05 [INFO] Prompt ID: 7efce47c-bebd-48f7-a52e-fa7cff93d590
+2023-07-09 17:00:06 [INFO] error_code=None error_message='Unrecognized request argument supplied: api_token' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-09 17:00:06 [INFO] 127.0.0.1 - - [09/Jul/2023 17:00:06] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:01:22 [INFO] Question: How many people died on titanic?
+2023-07-09 17:01:22 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 17:01:22 [INFO] Prompt ID: f25012de-9581-4df2-ae95-19e4aaa3f146
+2023-07-09 17:01:24 [INFO] error_code=None error_message='Unrecognized request argument supplied: api_token' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-09 17:01:24 [INFO] 127.0.0.1 - - [09/Jul/2023 17:01:24] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:04:09 [INFO] Question: How many people died on titanic?
+2023-07-09 17:04:09 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 17:04:09 [INFO] Prompt ID: 4e867308-cc26-4a96-b7a4-52a7490d061f
+2023-07-09 17:04:09 [INFO] error_code=None error_message='Unrecognized request argument supplied: api_token' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-09 17:04:09 [INFO] 127.0.0.1 - - [09/Jul/2023 17:04:09] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:08:11 [INFO] Question: How many people died on titanic?
+2023-07-09 17:08:11 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 17:08:11 [INFO] Prompt ID: 67ffd630-00a5-4907-ad48-88a8d315fcdd
+2023-07-09 17:08:11 [INFO] error_code=None error_message='Unrecognized request argument supplied: api_token' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-09 17:08:11 [INFO] 127.0.0.1 - - [09/Jul/2023 17:08:11] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:14:23 [INFO] Question: How many people died on titanic?
+2023-07-09 17:14:23 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 17:14:23 [INFO] Prompt ID: 6e0d9ba8-801e-4ac3-a861-42bd4b5e9cbe
+2023-07-09 17:14:23 [INFO] error_code=None error_message='Unrecognized request argument supplied: api_token' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-09 17:14:23 [INFO] 127.0.0.1 - - [09/Jul/2023 17:14:23] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:18:05 [INFO] Question: How many people died on titanic?
+2023-07-09 17:18:05 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 17:18:05 [INFO] Prompt ID: 8b9de178-d6db-4ee9-8c43-d5e081f01447
+2023-07-09 17:18:06 [INFO] error_code=None error_message='Unrecognized request argument supplied: api_token' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-09 17:18:06 [INFO] 127.0.0.1 - - [09/Jul/2023 17:18:06] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:25:11 [INFO] Question: How many people died on titanic?
+2023-07-09 17:25:11 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 17:25:11 [INFO] Prompt ID: 705369a8-0e5d-45dd-a920-775644d26301
+2023-07-09 17:25:12 [INFO] error_code=None error_message='Unrecognized request argument supplied: api_token' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-09 17:25:12 [INFO] 127.0.0.1 - - [09/Jul/2023 17:25:12] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:28:00 [INFO] Question: How many people died on titanic?
+2023-07-09 17:28:00 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 17:28:00 [INFO] Prompt ID: 23eb055d-d92d-4642-b72e-5b6d52f6d44f
+2023-07-09 17:28:01 [INFO] error_code=None error_message='Unrecognized request argument supplied: api_token' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2023-07-09 17:28:01 [INFO] 127.0.0.1 - - [09/Jul/2023 17:28:01] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:32:36 [INFO] Question: How many people died on titanic?
+2023-07-09 17:32:36 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 17:32:36 [INFO] Prompt ID: 3ebabecf-95f8-47eb-8e3d-b3df48e40095
+2023-07-09 17:32:36 [INFO] Question: How many people died on titanic?
+2023-07-09 17:32:36 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 17:32:36 [INFO] Prompt ID: 2c5ea5e0-17e5-4cb9-be3e-a41700d6c7a1
+2023-07-09 17:32:38 [INFO] 
+                        Code generated:
+                        ```
+                        df['Survived'].value_counts()[0]  # returns number of people who died
+                        ```
+                    
+2023-07-09 17:32:38 [INFO] 
+Code running:
+```
+df['Survived'].value_counts()[0]
+```
+2023-07-09 17:32:38 [INFO] Answer: 549
+2023-07-09 17:32:38 [INFO] Executed in: 2.676813840866089s
+2023-07-09 17:32:38 [INFO] 127.0.0.1 - - [09/Jul/2023 17:32:38] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:32:40 [INFO] 
+                        Code generated:
+                        ```
+                        df[df['Survived'] == 0].shape[0]
+                        ```
+                    
+2023-07-09 17:32:40 [INFO] 
+Code running:
+```
+df[df['Survived'] == 0].shape[0]
+```
+2023-07-09 17:32:40 [INFO] Answer: 549
+2023-07-09 17:32:40 [INFO] Executed in: 3.5252716541290283s
+2023-07-09 17:32:40 [INFO] 127.0.0.1 - - [09/Jul/2023 17:32:40] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:33:14 [INFO] Question: how many women died on titanic
+2023-07-09 17:33:14 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 17:33:14 [INFO] Prompt ID: 4dc58334-0e60-4f4b-af80-9c25141c2ad6
+2023-07-09 17:33:16 [INFO] 
+                        Code generated:
+                        ```
+                        df[(df['Sex'] == 'female') & (df['Survived'] == 0)].shape[0]
+                        ```
+                    
+2023-07-09 17:33:16 [INFO] 
+Code running:
+```
+df[(df['Sex'] == 'female') & (df['Survived'] == 0)].shape[0]
+```
+2023-07-09 17:33:16 [INFO] Answer: 81
+2023-07-09 17:33:16 [INFO] Executed in: 1.4031498432159424s
+2023-07-09 17:33:16 [INFO] 127.0.0.1 - - [09/Jul/2023 17:33:16] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 17:33:33 [INFO] 127.0.0.1 - - [09/Jul/2023 17:33:33] "GET /GoogleTranslate.html HTTP/1.1" 200 -
+2023-07-09 17:33:43 [INFO] 127.0.0.1 - - [09/Jul/2023 17:33:43] "POST /translate HTTP/1.1" 200 -
+2023-07-09 21:55:48 [INFO] Question: How many people died on titanic?
+2023-07-09 21:55:48 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 21:55:48 [INFO] Prompt ID: 91fa5bb0-dad1-4799-b04f-330fac429f6c
+2023-07-09 21:55:48 [INFO] Using cached response
+2023-07-09 21:55:48 [INFO] 
+Code running:
+```
+df[df['Survived'] == 0].shape[0]
+```
+2023-07-09 21:55:48 [INFO] Answer: 549
+2023-07-09 21:55:48 [INFO] Executed in: 0.011002063751220703s
+2023-07-09 21:55:48 [INFO] 127.0.0.1 - - [09/Jul/2023 21:55:48] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 22:00:26 [INFO] Question: How many people died on titanic?
+2023-07-09 22:00:26 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 22:00:26 [INFO] Prompt ID: 5117f907-531e-4eed-9ba2-ea35d14cf7d6
+2023-07-09 22:00:26 [INFO] Using cached response
+2023-07-09 22:00:26 [INFO] 
+Code running:
+```
+df[df['Survived'] == 0].shape[0]
+```
+2023-07-09 22:00:26 [INFO] Answer: 549
+2023-07-09 22:00:26 [INFO] Executed in: 0.0039904117584228516s
+2023-07-09 22:00:26 [INFO] 127.0.0.1 - - [09/Jul/2023 22:00:26] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 22:00:26 [INFO] 127.0.0.1 - - [09/Jul/2023 22:00:26] "GET /static/infoextract_bg.png HTTP/1.1" 200 -
+2023-07-09 22:00:55 [INFO] Question: How many people died on titanic?
+2023-07-09 22:00:55 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 22:00:55 [INFO] Prompt ID: 92d56ead-c99d-40a7-8833-f7845a863903
+2023-07-09 22:00:55 [INFO] Using cached response
+2023-07-09 22:00:55 [INFO] 
+Code running:
+```
+df[df['Survived'] == 0].shape[0]
+```
+2023-07-09 22:00:55 [INFO] Answer: 549
+2023-07-09 22:00:55 [INFO] Executed in: 0.005949258804321289s
+2023-07-09 22:00:55 [INFO] 127.0.0.1 - - [09/Jul/2023 22:00:55] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 22:00:55 [INFO] 127.0.0.1 - - [09/Jul/2023 22:00:55] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-09 22:01:07 [INFO] 127.0.0.1 - - [09/Jul/2023 22:01:07] "[31m[1mPOST /info_extract HTTP/1.1[0m" 400 -
+2023-07-09 22:02:47 [INFO] Question: How many people died on titanic?
+2023-07-09 22:02:47 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 22:02:47 [INFO] Prompt ID: 358a008f-2ff3-4360-94b7-43e7ca51de64
+2023-07-09 22:02:47 [INFO] Using cached response
+2023-07-09 22:02:47 [INFO] 
+Code running:
+```
+df[df['Survived'] == 0].shape[0]
+```
+2023-07-09 22:02:47 [INFO] Answer: 549
+2023-07-09 22:02:47 [INFO] Executed in: 0.004982471466064453s
+2023-07-09 22:02:47 [INFO] 127.0.0.1 - - [09/Jul/2023 22:02:47] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 22:02:47 [INFO] 127.0.0.1 - - [09/Jul/2023 22:02:47] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-09 22:02:58 [INFO] Question: HOW MANY PEOPLE DIED IN TITANIC
+2023-07-09 22:02:58 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 22:02:58 [INFO] Prompt ID: 0584a017-f586-4068-9ad9-b428e6094b86
+2023-07-09 22:03:01 [INFO] 
+                        Code generated:
+                        ```
+                        df['Survived'].value_counts()[0] # returns the number of people who died in Titanic
+                        ```
+                    
+2023-07-09 22:03:01 [INFO] 
+Code running:
+```
+df['Survived'].value_counts()[0]
+```
+2023-07-09 22:03:01 [INFO] Answer: 549
+2023-07-09 22:03:01 [INFO] Executed in: 2.1504392623901367s
+2023-07-09 22:03:01 [INFO] 127.0.0.1 - - [09/Jul/2023 22:03:01] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 22:03:01 [INFO] 127.0.0.1 - - [09/Jul/2023 22:03:01] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-09 22:03:56 [INFO] Question: HOW MANY PEOPLE DIED IN TITANIC
+2023-07-09 22:03:56 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 22:03:56 [INFO] Prompt ID: 2e15b0a4-58e1-4d19-9ce7-656a5de503bb
+2023-07-09 22:03:56 [INFO] Using cached response
+2023-07-09 22:03:56 [INFO] 
+Code running:
+```
+df['Survived'].value_counts()[0]
+```
+2023-07-09 22:03:56 [INFO] Answer: 549
+2023-07-09 22:03:56 [INFO] Executed in: 0.003984212875366211s
+2023-07-09 22:03:56 [INFO] 127.0.0.1 - - [09/Jul/2023 22:03:56] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 22:03:56 [INFO] 127.0.0.1 - - [09/Jul/2023 22:03:56] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-09 22:04:18 [INFO] Question: HOW MANY PEOPLE DIED IN TITANIC
+2023-07-09 22:04:18 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 22:04:18 [INFO] Prompt ID: b177f22d-a5cc-46b4-befb-482ce03366b7
+2023-07-09 22:04:18 [INFO] Using cached response
+2023-07-09 22:04:18 [INFO] 
+Code running:
+```
+df['Survived'].value_counts()[0]
+```
+2023-07-09 22:04:18 [INFO] Answer: 549
+2023-07-09 22:04:18 [INFO] Executed in: 0.0019919872283935547s
+2023-07-09 22:04:18 [INFO] 127.0.0.1 - - [09/Jul/2023 22:04:18] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 22:04:18 [INFO] 127.0.0.1 - - [09/Jul/2023 22:04:18] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-09 22:04:34 [INFO] Question: HOW MANY PEOPLE DIED IN TITANIC
+2023-07-09 22:04:34 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 22:04:34 [INFO] Prompt ID: 920c76c1-caf8-4ff0-b4c0-fea355d366d0
+2023-07-09 22:04:34 [INFO] Using cached response
+2023-07-09 22:04:34 [INFO] 
+Code running:
+```
+df['Survived'].value_counts()[0]
+```
+2023-07-09 22:04:34 [INFO] Answer: 549
+2023-07-09 22:04:34 [INFO] Executed in: 0.003983020782470703s
+2023-07-09 22:04:34 [INFO] 127.0.0.1 - - [09/Jul/2023 22:04:34] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 22:04:34 [INFO] 127.0.0.1 - - [09/Jul/2023 22:04:34] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-09 22:04:57 [INFO] Question: HOW MANY PEOPLE DIED IN TITANIC
+2023-07-09 22:04:57 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 22:04:57 [INFO] Prompt ID: 56164559-5ed9-4776-b64c-163c32a6f081
+2023-07-09 22:04:57 [INFO] Using cached response
+2023-07-09 22:04:57 [INFO] 
+Code running:
+```
+df['Survived'].value_counts()[0]
+```
+2023-07-09 22:04:57 [INFO] Answer: 549
+2023-07-09 22:04:57 [INFO] Executed in: 0.003985166549682617s
+2023-07-09 22:04:57 [INFO] 127.0.0.1 - - [09/Jul/2023 22:04:57] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 22:04:57 [INFO] 127.0.0.1 - - [09/Jul/2023 22:04:57] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-09 22:05:12 [INFO] 127.0.0.1 - - [09/Jul/2023 22:05:12] "GET /excel.html HTTP/1.1" 200 -
+2023-07-09 22:05:12 [INFO] 127.0.0.1 - - [09/Jul/2023 22:05:12] "GET /static/infoextract_bg.png HTTP/1.1" 200 -
+2023-07-09 22:05:30 [INFO] Question: How many people died on titanic?
+2023-07-09 22:05:30 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-09 22:05:30 [INFO] Prompt ID: f20e212d-759a-4335-8034-23ceb1b62cfb
+2023-07-09 22:05:30 [INFO] Using cached response
+2023-07-09 22:05:30 [INFO] 
+Code running:
+```
+df[df['Survived'] == 0].shape[0]
+```
+2023-07-09 22:05:30 [INFO] Answer: 549
+2023-07-09 22:05:30 [INFO] Executed in: 0.0059223175048828125s
+2023-07-09 22:05:30 [INFO] 127.0.0.1 - - [09/Jul/2023 22:05:30] "POST /info_extract HTTP/1.1" 200 -
+2023-07-09 22:05:30 [INFO] 127.0.0.1 - - [09/Jul/2023 22:05:30] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-09 22:06:01 [INFO] 127.0.0.1 - - [09/Jul/2023 22:06:01] "GET /research_paper_preview.html HTTP/1.1" 200 -
+2023-07-09 22:10:05 [INFO] 127.0.0.1 - - [09/Jul/2023 22:10:05] "GET /research_paper_preview.html HTTP/1.1" 200 -
+2023-07-11 18:55:17 [INFO] Question: How many people died on titanic?
+2023-07-11 18:55:17 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-11 18:55:17 [INFO] Prompt ID: 40a1c455-c794-4dc0-8347-85977657cbc9
+2023-07-11 18:55:17 [INFO] Using cached response
+2023-07-11 18:55:17 [INFO] 
+Code running:
+```
+df[df['Survived'] == 0].shape[0]
+```
+2023-07-11 18:55:17 [INFO] Answer: 549
+2023-07-11 18:55:17 [INFO] Executed in: 0.011716842651367188s
+2023-07-11 18:55:17 [INFO] 127.0.0.1 - - [11/Jul/2023 18:55:17] "POST /info_extract HTTP/1.1" 200 -
+2023-07-11 18:55:17 [INFO] 127.0.0.1 - - [11/Jul/2023 18:55:17] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-11 18:55:21 [INFO] 127.0.0.1 - - [11/Jul/2023 18:55:21] "GET /research_paper_preview.html HTTP/1.1" 200 -
+2023-07-11 18:55:21 [INFO] 127.0.0.1 - - [11/Jul/2023 18:55:21] "[36mGET /static/preview_bg.png HTTP/1.1[0m" 304 -
+2023-07-11 18:55:43 [INFO] 127.0.0.1 - - [11/Jul/2023 18:55:43] "POST /paper_preview HTTP/1.1" 200 -
+2023-07-11 18:55:43 [INFO] 127.0.0.1 - - [11/Jul/2023 18:55:43] "[36mGET /static/preview_bg.png HTTP/1.1[0m" 304 -
+2023-07-11 18:55:50 [INFO] 127.0.0.1 - - [11/Jul/2023 18:55:50] "GET /research_paper_summary.html HTTP/1.1" 200 -
+2023-07-11 18:55:50 [INFO] 127.0.0.1 - - [11/Jul/2023 18:55:50] "[36mGET /static/summary_rp_bg.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:18 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:18] "POST /paper_summary HTTP/1.1" 200 -
+2023-07-11 18:56:18 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:18] "[36mGET /static/summary_rp_bg.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:42 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:42] "GET /references_using_keywords.html HTTP/1.1" 200 -
+2023-07-11 18:56:42 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:42] "[36mGET /static/recommender_bg.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:47 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:47] "POST /paper_recommender HTTP/1.1" 200 -
+2023-07-11 18:56:47 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:47] "[36mGET /static/recommender_bg.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:51 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:51] "GET /index.html HTTP/1.1" 200 -
+2023-07-11 18:56:51 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:51] "[36mGET /static/summary.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:51 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:51] "[36mGET /static/qa.jpg HTTP/1.1[0m" 304 -
+2023-07-11 18:56:51 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:51] "[36mGET /static/quiz.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:51 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:51] "[36mGET /static/translate.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:51 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:51] "[36mGET /static/qb.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:51 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:51] "[36mGET /static/excel.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:51 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:51] "[36mGET /static/preview.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:51 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:51] "[36mGET /static/research.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:51 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:51] "[36mGET /static/background.png HTTP/1.1[0m" 304 -
+2023-07-11 18:56:51 [INFO] 127.0.0.1 - - [11/Jul/2023 18:56:51] "[36mGET /static/recommender.png HTTP/1.1[0m" 304 -
+2023-07-19 22:47:31 [INFO] Question: How many people died on titanic?
+2023-07-19 22:47:31 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-19 22:47:31 [INFO] Prompt ID: 55049973-94c2-4e21-b95c-567bc026da23
+2023-07-19 22:47:31 [INFO] Using cached response
+2023-07-19 22:47:31 [INFO] 
+Code running:
+```
+df[df['Survived'] == 0].shape[0]
+```
+2023-07-19 22:47:31 [INFO] Answer: 549
+2023-07-19 22:47:31 [INFO] Executed in: 0.010813474655151367s
+2023-07-19 22:47:31 [INFO] 127.0.0.1 - - [19/Jul/2023 22:47:31] "POST /info_extract HTTP/1.1" 200 -
+2023-07-19 22:47:31 [INFO] 127.0.0.1 - - [19/Jul/2023 22:47:31] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:48:18 [INFO] Question: how many passengers were there on titanic?
+2023-07-19 22:48:18 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-19 22:48:18 [INFO] Prompt ID: 66a44a80-87e7-4c3b-823d-6613938b8567
+2023-07-19 22:48:19 [INFO] 
+                        Code generated:
+                        ```
+                        print(len(df))
+                        ```
+                    
+2023-07-19 22:48:19 [INFO] 
+Code running:
+```
+print(len(df))
+```
+2023-07-19 22:48:19 [INFO] Answer: 891
+2023-07-19 22:48:19 [INFO] Executed in: 0.8880100250244141s
+2023-07-19 22:48:19 [INFO] 127.0.0.1 - - [19/Jul/2023 22:48:19] "POST /info_extract HTTP/1.1" 200 -
+2023-07-19 22:48:19 [INFO] 127.0.0.1 - - [19/Jul/2023 22:48:19] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:48:27 [INFO] 127.0.0.1 - - [19/Jul/2023 22:48:27] "GET /research_paper_preview.html HTTP/1.1" 200 -
+2023-07-19 22:48:27 [INFO] 127.0.0.1 - - [19/Jul/2023 22:48:27] "[36mGET /static/preview_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:48:40 [INFO] 127.0.0.1 - - [19/Jul/2023 22:48:40] "POST /paper_preview HTTP/1.1" 200 -
+2023-07-19 22:48:40 [INFO] 127.0.0.1 - - [19/Jul/2023 22:48:40] "[36mGET /static/preview_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:48:52 [INFO] 127.0.0.1 - - [19/Jul/2023 22:48:52] "GET /research_paper_summary.html HTTP/1.1" 200 -
+2023-07-19 22:48:52 [INFO] 127.0.0.1 - - [19/Jul/2023 22:48:52] "[36mGET /static/summary_rp_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:51:07 [INFO] 127.0.0.1 - - [19/Jul/2023 22:51:07] "POST /paper_summary HTTP/1.1" 200 -
+2023-07-19 22:51:07 [INFO] 127.0.0.1 - - [19/Jul/2023 22:51:07] "[36mGET /static/summary_rp_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:51:36 [INFO] 127.0.0.1 - - [19/Jul/2023 22:51:36] "GET /references_using_keywords.html HTTP/1.1" 200 -
+2023-07-19 22:51:36 [INFO] 127.0.0.1 - - [19/Jul/2023 22:51:36] "[36mGET /static/recommender_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:51:42 [INFO] 127.0.0.1 - - [19/Jul/2023 22:51:42] "POST /paper_recommender HTTP/1.1" 200 -
+2023-07-19 22:51:42 [INFO] 127.0.0.1 - - [19/Jul/2023 22:51:42] "[36mGET /static/recommender_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:23 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:23] "GET /index.html HTTP/1.1" 200 -
+2023-07-19 22:52:23 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:23] "[36mGET /static/summary.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:23 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:23] "[36mGET /static/qa.jpg HTTP/1.1[0m" 304 -
+2023-07-19 22:52:23 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:23] "[36mGET /static/qb.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:23 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:23] "[36mGET /static/quiz.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:23 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:23] "[36mGET /static/translate.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:23 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:23] "[36mGET /static/excel.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:23 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:23] "[36mGET /static/preview.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:23 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:23] "[36mGET /static/research.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:23 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:23] "[36mGET /static/recommender.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:23 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:23] "[36mGET /static/background.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:50 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:50] "GET /summarization.html HTTP/1.1" 200 -
+2023-07-19 22:52:50 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:50] "[36mGET /static/sum_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:55] "GET /index.html HTTP/1.1" 200 -
+2023-07-19 22:52:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:55] "[36mGET /static/summary.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:55] "[36mGET /static/qa.jpg HTTP/1.1[0m" 304 -
+2023-07-19 22:52:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:55] "[36mGET /static/qb.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:55] "[36mGET /static/quiz.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:55] "[36mGET /static/translate.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:55] "[36mGET /static/excel.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:55] "[36mGET /static/preview.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:55] "[36mGET /static/research.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:55] "[36mGET /static/background.png HTTP/1.1[0m" 304 -
+2023-07-19 22:52:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:52:55] "[36mGET /static/recommender.png HTTP/1.1[0m" 304 -
+2023-07-19 22:53:48 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:48] "GET /summarization.html HTTP/1.1" 200 -
+2023-07-19 22:53:48 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:48] "[36mGET /static/sum_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:53:57 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:57] "GET /index.html HTTP/1.1" 200 -
+2023-07-19 22:53:57 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:57] "[36mGET /static/summary.png HTTP/1.1[0m" 304 -
+2023-07-19 22:53:57 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:57] "[36mGET /static/qa.jpg HTTP/1.1[0m" 304 -
+2023-07-19 22:53:57 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:57] "[36mGET /static/qb.png HTTP/1.1[0m" 304 -
+2023-07-19 22:53:57 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:57] "[36mGET /static/quiz.png HTTP/1.1[0m" 304 -
+2023-07-19 22:53:57 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:57] "[36mGET /static/translate.png HTTP/1.1[0m" 304 -
+2023-07-19 22:53:57 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:57] "[36mGET /static/excel.png HTTP/1.1[0m" 304 -
+2023-07-19 22:53:57 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:57] "[36mGET /static/preview.png HTTP/1.1[0m" 304 -
+2023-07-19 22:53:57 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:57] "[36mGET /static/research.png HTTP/1.1[0m" 304 -
+2023-07-19 22:53:57 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:57] "[36mGET /static/background.png HTTP/1.1[0m" 304 -
+2023-07-19 22:53:57 [INFO] 127.0.0.1 - - [19/Jul/2023 22:53:57] "[36mGET /static/recommender.png HTTP/1.1[0m" 304 -
+2023-07-19 22:54:33 [INFO] 127.0.0.1 - - [19/Jul/2023 22:54:33] "GET /summarization.html HTTP/1.1" 200 -
+2023-07-19 22:54:33 [INFO] 127.0.0.1 - - [19/Jul/2023 22:54:33] "[36mGET /static/sum_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:55:27 [INFO] 127.0.0.1 - - [19/Jul/2023 22:55:27] "POST /process_pdf HTTP/1.1" 200 -
+2023-07-19 22:55:27 [INFO] 127.0.0.1 - - [19/Jul/2023 22:55:27] "[36mGET /static/sum_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:55:47 [INFO] 127.0.0.1 - - [19/Jul/2023 22:55:47] "GET /question_ans.html HTTP/1.1" 200 -
+2023-07-19 22:55:47 [INFO] 127.0.0.1 - - [19/Jul/2023 22:55:47] "[36mGET /static/questionans_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:56:03 [INFO] 127.0.0.1 - - [19/Jul/2023 22:56:03] "GET /summarization.html HTTP/1.1" 200 -
+2023-07-19 22:56:03 [INFO] 127.0.0.1 - - [19/Jul/2023 22:56:03] "[36mGET /static/sum_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:56:36 [INFO] 127.0.0.1 - - [19/Jul/2023 22:56:36] "POST /process_pdf HTTP/1.1" 200 -
+2023-07-19 22:56:40 [INFO] 127.0.0.1 - - [19/Jul/2023 22:56:40] "POST /process_pdf HTTP/1.1" 200 -
+2023-07-19 22:56:40 [INFO] 127.0.0.1 - - [19/Jul/2023 22:56:40] "[36mGET /static/sum_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:57:24 [INFO] 127.0.0.1 - - [19/Jul/2023 22:57:24] "GET /question_ans.html HTTP/1.1" 200 -
+2023-07-19 22:57:24 [INFO] 127.0.0.1 - - [19/Jul/2023 22:57:24] "[36mGET /static/questionans_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:57:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:57:55] "POST /answer HTTP/1.1" 200 -
+2023-07-19 22:57:55 [INFO] 127.0.0.1 - - [19/Jul/2023 22:57:55] "[36mGET /static/questionans_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:58:18 [INFO] 127.0.0.1 - - [19/Jul/2023 22:58:18] "POST /answer HTTP/1.1" 200 -
+2023-07-19 22:58:18 [INFO] 127.0.0.1 - - [19/Jul/2023 22:58:18] "[36mGET /static/questionans_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:59:08 [INFO] 127.0.0.1 - - [19/Jul/2023 22:59:08] "POST /answer HTTP/1.1" 200 -
+2023-07-19 22:59:08 [INFO] 127.0.0.1 - - [19/Jul/2023 22:59:08] "[36mGET /static/questionans_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:59:18 [INFO] 127.0.0.1 - - [19/Jul/2023 22:59:18] "GET /questionbank.html HTTP/1.1" 200 -
+2023-07-19 22:59:18 [INFO] 127.0.0.1 - - [19/Jul/2023 22:59:18] "[36mGET /static/qb_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:59:38 [INFO] 127.0.0.1 - - [19/Jul/2023 22:59:38] "POST /questionbank_creation HTTP/1.1" 200 -
+2023-07-19 22:59:38 [INFO] 127.0.0.1 - - [19/Jul/2023 22:59:38] "[36mGET /static/qb_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 22:59:47 [INFO] 127.0.0.1 - - [19/Jul/2023 22:59:47] "GET /quiz.html HTTP/1.1" 200 -
+2023-07-19 22:59:47 [INFO] 127.0.0.1 - - [19/Jul/2023 22:59:47] "[36mGET /static/quiz_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:00:36 [INFO] 127.0.0.1 - - [19/Jul/2023 23:00:36] "POST /quiz_time HTTP/1.1" 200 -
+2023-07-19 23:00:36 [INFO] 127.0.0.1 - - [19/Jul/2023 23:00:36] "[36mGET /static/quiz_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:00:43 [INFO] 127.0.0.1 - - [19/Jul/2023 23:00:43] "GET /GoogleTranslate.html HTTP/1.1" 200 -
+2023-07-19 23:00:43 [INFO] 127.0.0.1 - - [19/Jul/2023 23:00:43] "[36mGET /static/translate_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:00:49 [INFO] 127.0.0.1 - - [19/Jul/2023 23:00:49] "POST /translate HTTP/1.1" 200 -
+2023-07-19 23:00:49 [INFO] 127.0.0.1 - - [19/Jul/2023 23:00:49] "[36mGET /static/translate_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:00:56 [INFO] 127.0.0.1 - - [19/Jul/2023 23:00:56] "GET /excel.html HTTP/1.1" 200 -
+2023-07-19 23:00:56 [INFO] 127.0.0.1 - - [19/Jul/2023 23:00:56] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:01:27 [INFO] Question: how many passengers were there on titanic?
+2023-07-19 23:01:27 [INFO] Running PandasAI with langchain_openai LLM...
+2023-07-19 23:01:27 [INFO] Prompt ID: 316edcf6-aefb-4f5b-ac34-c143a0f59bef
+2023-07-19 23:01:27 [INFO] Using cached response
+2023-07-19 23:01:27 [INFO] 
+Code running:
+```
+print(len(df))
+```
+2023-07-19 23:01:27 [INFO] Answer: 891
+2023-07-19 23:01:27 [INFO] Executed in: 0.003740549087524414s
+2023-07-19 23:01:27 [INFO] 127.0.0.1 - - [19/Jul/2023 23:01:27] "POST /info_extract HTTP/1.1" 200 -
+2023-07-19 23:01:27 [INFO] 127.0.0.1 - - [19/Jul/2023 23:01:27] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:01:38 [INFO] 127.0.0.1 - - [19/Jul/2023 23:01:38] "GET /research_paper_preview.html HTTP/1.1" 200 -
+2023-07-19 23:01:38 [INFO] 127.0.0.1 - - [19/Jul/2023 23:01:38] "[36mGET /static/preview_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:01:42 [INFO] 127.0.0.1 - - [19/Jul/2023 23:01:42] "POST /paper_preview HTTP/1.1" 200 -
+2023-07-19 23:01:42 [INFO] 127.0.0.1 - - [19/Jul/2023 23:01:42] "[36mGET /static/preview_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:01:46 [INFO] 127.0.0.1 - - [19/Jul/2023 23:01:46] "GET /research_paper_summary.html HTTP/1.1" 200 -
+2023-07-19 23:01:46 [INFO] 127.0.0.1 - - [19/Jul/2023 23:01:46] "[36mGET /static/summary_rp_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:02 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:02] "POST /paper_summary HTTP/1.1" 200 -
+2023-07-19 23:03:02 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:02] "[36mGET /static/summary_rp_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:07 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:07] "GET /references_using_keywords.html HTTP/1.1" 200 -
+2023-07-19 23:03:07 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:07] "[36mGET /static/recommender_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:13 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:13] "POST /paper_recommender HTTP/1.1" 200 -
+2023-07-19 23:03:13 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:13] "[36mGET /static/recommender_bg.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:26 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:26] "GET /index.html HTTP/1.1" 200 -
+2023-07-19 23:03:26 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:26] "[36mGET /static/summary.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:26 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:26] "[36mGET /static/qa.jpg HTTP/1.1[0m" 304 -
+2023-07-19 23:03:26 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:26] "[36mGET /static/qb.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:26 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:26] "[36mGET /static/quiz.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:26 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:26] "[36mGET /static/translate.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:26 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:26] "[36mGET /static/excel.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:26 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:26] "[36mGET /static/preview.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:26 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:26] "[36mGET /static/research.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:26 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:26] "[36mGET /static/background.png HTTP/1.1[0m" 304 -
+2023-07-19 23:03:26 [INFO] 127.0.0.1 - - [19/Jul/2023 23:03:26] "[36mGET /static/recommender.png HTTP/1.1[0m" 304 -
+2023-08-05 14:03:08 [INFO] Question: what is the ratio of men to women who died on titanic?
+2023-08-05 14:03:09 [INFO] Running PandasAI with langchain_openai LLM...
+2023-08-05 14:03:09 [INFO] Prompt ID: dc46e827-eec6-4dcc-96c7-ac46199d3da4
+2023-08-05 14:03:12 [INFO] 
+                        Code generated:
+                        ```
+                        df_men = df[(df['Sex'] == 'male') & (df['Survived'] == 0)]
+df_women = df[(df['Sex'] == 'female') & (df['Survived'] == 0)]
+
+ratio = len(df_men)/len(df_women)
+
+print('The ratio of men to women who died on Titanic is: ' + str(ratio))
+                        ```
+                    
+2023-08-05 14:03:12 [INFO] 
+Code running:
+```
+df_men = df[(df['Sex'] == 'male') & (df['Survived'] == 0)]
+df_women = df[(df['Sex'] == 'female') & (df['Survived'] == 0)]
+ratio = len(df_men) / len(df_women)
+print('The ratio of men to women who died on Titanic is: ' + str(ratio))
+```
+2023-08-05 14:03:12 [INFO] Answer: The ratio of men to women who died on Titanic is: 5.695121951219512
+2023-08-05 14:03:12 [INFO] Executed in: 3.606252431869507s
+2023-08-05 14:03:12 [INFO] 127.0.0.1 - - [05/Aug/2023 14:03:12] "POST /info_extract HTTP/1.1" 200 -
+2023-08-05 14:03:12 [INFO] 127.0.0.1 - - [05/Aug/2023 14:03:12] "[36mGET /static/infoextract_bg.png HTTP/1.1[0m" 304 -
+2023-08-05 14:03:50 [INFO] 127.0.0.1 - - [05/Aug/2023 14:03:50] "GET /research_paper_preview.html HTTP/1.1" 200 -
+2023-08-05 14:03:50 [INFO] 127.0.0.1 - - [05/Aug/2023 14:03:50] "GET /static/preview_bg.png HTTP/1.1" 200 -
+2023-08-05 14:04:11 [INFO] 127.0.0.1 - - [05/Aug/2023 14:04:11] "POST /paper_preview HTTP/1.1" 200 -
+2023-08-05 14:04:11 [INFO] 127.0.0.1 - - [05/Aug/2023 14:04:11] "[36mGET /static/preview_bg.png HTTP/1.1[0m" 304 -
+2023-08-05 14:04:39 [INFO] 127.0.0.1 - - [05/Aug/2023 14:04:39] "GET /research_paper_summary.html HTTP/1.1" 200 -
+2023-08-05 14:04:39 [INFO] 127.0.0.1 - - [05/Aug/2023 14:04:39] "[36mGET /static/summary_rp_bg.png HTTP/1.1[0m" 304 -
+2023-08-05 14:04:48 [INFO] 127.0.0.1 - - [05/Aug/2023 14:04:48] "GET /references_using_keywords.html HTTP/1.1" 200 -
+2023-08-05 14:04:48 [INFO] 127.0.0.1 - - [05/Aug/2023 14:04:48] "[36mGET /static/recommender_bg.png HTTP/1.1[0m" 304 -
+2023-08-05 14:05:00 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:00] "POST /paper_recommender HTTP/1.1" 200 -
+2023-08-05 14:05:01 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:01] "[36mGET /static/recommender_bg.png HTTP/1.1[0m" 304 -
+2023-08-05 14:05:22 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:22] "GET /index.html HTTP/1.1" 200 -
+2023-08-05 14:05:22 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:22] "[36mGET /static/summary.png HTTP/1.1[0m" 304 -
+2023-08-05 14:05:22 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:22] "[36mGET /static/qb.png HTTP/1.1[0m" 304 -
+2023-08-05 14:05:22 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:22] "[36mGET /static/qa.jpg HTTP/1.1[0m" 304 -
+2023-08-05 14:05:22 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:22] "[36mGET /static/quiz.png HTTP/1.1[0m" 304 -
+2023-08-05 14:05:22 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:22] "[36mGET /static/translate.png HTTP/1.1[0m" 304 -
+2023-08-05 14:05:22 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:22] "[36mGET /static/excel.png HTTP/1.1[0m" 304 -
+2023-08-05 14:05:22 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:22] "[36mGET /static/preview.png HTTP/1.1[0m" 304 -
+2023-08-05 14:05:22 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:22] "[36mGET /static/research.png HTTP/1.1[0m" 304 -
+2023-08-05 14:05:22 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:22] "[36mGET /static/recommender.png HTTP/1.1[0m" 304 -
+2023-08-05 14:05:22 [INFO] 127.0.0.1 - - [05/Aug/2023 14:05:22] "[36mGET /static/background.png HTTP/1.1[0m" 304 -

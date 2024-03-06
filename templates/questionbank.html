@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js"></script>
+  <!-- JavaScript Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  <style>
+    /* CSS styles here */
+
+    @font-face {
+      font-family: 'Voga';
+      src: url('fonts/voga.ttf') format('truetype'); /* Replace with the correct path to the font file */
+      /* Add additional src lines for other font file formats if available */
+    }
+
+    h4 {
+      font-size: 2vh;
+    }
+
+    .container-wrapper {
+      position: relative;
+    }
+
+    .front-page {
+      background-image: url("static/qb_bg.png");
+      height: 750px;
+      /* You must set a specified height */
+      background-position: center;
+      /* Center the image */
+      background-repeat: no-repeat;
+      /* Do not repeat the image */
+      background-size: cover;
+      /* Resize the background image to cover the entire container */
+    }
+
+    body,
+    html {
+      height: 100%;
+      margin: 0;
+      font-family: "Times New Roman", Times, serif;
+      background: black;
+      overflow-x: hidden;
+      font-size: 24px;
+      /* Hide horizontal scrollbar */
+    }
+
+    .navbar {
+      height: 1px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .navbar a {
+      float: left;
+      color: #fff;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 18px;
+    }
+
+    /* CSS for dropdown */
+    .dropdown {
+      position: relative;
+      display: inline-block;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      opacity: 0.7;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(197, 183, 183, 0.2);
+      z-index: 3;
+      top: 100%;
+      left: 0;
+    }
+
+    .dropdown-content a {
+      color: #000;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+    }
+
+    .dropdown-content a:hover {
+      color: #A4907C;
+    }
+
+    .dropdown:hover .dropdown-content {
+      display: block;
+    }
+
+    /* Style for file input */
+ 
+    .file-upload-container {
+  position: absolute;
+  top: 200px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#result {
+      color: antiquewhite;
+      font-size: 25px;
+      text-align: left;
+      position: relative;
+      top: -420px;
+    }
+
+  .custom-file-input {
+  /* Add your custom styles here */
+  /* Example styles */
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+  </style>
+</head>
+
+<body>
+  <!-- .navbar -->
+  <div class="navbar fixed-top">
+    <a href="index.html" style="font-size: 21px;">🦉LateMate</a>
+    <div class="dropdown">
+      <a href="#" style="font-size: 21px;">Student</a>
+      <div class="dropdown-content">
+        <a href="summarization.html">Summarization</a>
+        <a href="question_ans.html">Question Answering</a>
+        <a href="questionbank.html">Question Bank</a>
+        <a href="quiz.html">Quiz</a>
+      </div>
+    </div>
+    <div class="dropdown">
+      <a href="#" style="font-size: 21px;">Premium</a>
+      <div class="dropdown-content">
+        <a href="GoogleTranslate.html">Google Translate</a>
+        <a href="excel.html">CSV file information extraction</a>
+        <a href="research_paper_preview.html">Resrach paper preview</a>
+        <a href="research_paper_summary.html">Resrach paper summary</a>
+        <a href="references_using_keywords.html">Research paper recommender</a>
+      </div>
+    </div>
+  </div>
+  <!-- /.navbar -->
+
+  <div class="container-wrapper">
+    <div class="front-page"></div>
+
+    <!-- File Upload Section -->
+    <div class="file-upload-container">
+        <div class="container">
+
+          <p style="color: antiquewhite; font-size: 25px;">Select a PDF file:</p>
+          <form action="/questionbank_creation" method="POST" enctype="multipart/form-data">
+            <label for="pdf" style="color: #A4907C; position: relative;left: 70px;">Pdf File:</label>
+            <input type="file" name="pdf_file" accept="application/pdf" style="color: #A4907C;position: relative; left: 70px;">
+            <br><br>
+            <label for="source" style="color: antiquewhite;">Source:</label>
+            <input type="text" name="source" style="background-color: #000; color: #f9f9f9; border-radius: 20px;">
+            <input type="submit" style="background-color: transparent !important; color: #A4907C;" value="Submit">
+        </form>
+        </div>
+      </div>
+   </div>
+
+   <div id="result">
+        {% if qb_result %}
+            <div id="qb-text">
+                {% for point in qb_result %}
+                    <p>{{ point|safe }}</p>
+                {% endfor %}
+            </div> <br>
+            <button onclick="readOutLoud()" style="background-color: transparent !important; color: #A4907C;">Read Out Loud</button>
+            <button onclick="pause()" style="background-color: transparent !important; color: #A4907C;">Pause</button>
+        {% endif %}
+   </div>
+   
+   
+
+    <script>
+        var speech = new SpeechSynthesisUtterance();
+        var isSpeaking = false;
+
+        function readOutLoud() {
+            var summaryText = document.getElementById('qb-text').innerText;
+            if (!isSpeaking) {
+                speech.text = summaryText;
+                speech.volume = 1;
+                speech.rate = 1;
+                speech.pitch = 1;
+                window.speechSynthesis.speak(speech);
+                isSpeaking = true;
+            } else {
+                window.speechSynthesis.resume();
+            }
+        }
+
+        function pause() {
+            if (isSpeaking) {
+                window.speechSynthesis.pause();
+                isSpeaking = false;
+            }
+        }
+    </script>
+</body>
+
+</html>
